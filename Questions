@@ -1,0 +1,13 @@
+1)  Create a function to return the name of the week a student is born;
+2)  Create a function to validate the mobile number with regular expression;
+3)  Create a function to take two inputs and convert to the requested case;
+Eg:
+    convertcase('test sentence','upper') ==> TEST SENTENCE
+    convertcase('Test sentence','lower') ==> test sentence
+    convertcase('Test sentence','proper') ==> Test Sentence
+4)  Create a function to search a student with roll_no if exist show "Student Name and Course" else show "Roll No not exist"
+5)  Write a trigger that automatically deletes students details when a gender id is deleted from the gender table, 
+    -- i.e., when Male is deleted from the gender table all the male students from the student table must be deleted.
+
+6)  Write a trigger that automatically increases member count when a new student is added in the student table with a particular group.
+7)  Write a trigger that automatically updates member count when a new student group is edited in the student table.
