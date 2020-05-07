@@ -1,4 +1,4 @@
--- LINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store
+
 -- 1.1 Select the names of all the products in the store.
 -- 1.2 Select the names and the prices of all the products in the store.
 -- 1.3 Select the name of the products with a price less than or equal to $200.
@@ -19,3 +19,4 @@
 -- 1.18 Update the name of product 8 to "Laser Printer".
 -- 1.19 Apply a 10% discount to all products.
 -- 1.20 Apply a 10% discount to all products with a price larger than or equal to $120.
+  All are done in mysql using pymysql library especially because to write in Jupyter notebook.
