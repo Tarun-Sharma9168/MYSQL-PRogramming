@@ -1,4 +1,15 @@
+'''
 
+    #       # #   # ##### ####### #
+    # #   # # \  /  #     #     # #
+    #   #   #  \/   ##### #     # #
+    #       #  #        # #  #### #
+    #       #  #    ##### ####### ######
+    
+   Author name: Tarun Sharma  
+  All are done in mysql using pymysql library especially because to write in Jupyter notebook.
+
+''' 
 -- 1.1 Select the names of all the products in the store.
 -- 1.2 Select the names and the prices of all the products in the store.
 -- 1.3 Select the name of the products with a price less than or equal to $200.
