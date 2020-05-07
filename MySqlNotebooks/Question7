@@ -1,0 +1,15 @@
+'''
+
+    #       # #   # ##### ####### #
+    # #   # # \  /  #     #     # #
+    #   #   #  \/   ##### #     # #
+    #       #  #        # #  #### #
+    #       #  #    ##### ####### ######
+    
+   Author name: Tarun Sharma 
+   Schema Name: Package_Xpress
+  All are done in mysql using pymysql library especially because to write in Jupyter notebook.
+
+-- 7.1 Who receieved a 1.5kg package?
+    -- The result is "Al Gore's Head".
+-- 7.2 What is the total weight of all the packages that he sent?
